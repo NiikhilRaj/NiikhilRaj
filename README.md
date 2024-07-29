@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NiikhilRaj
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on c++
-- 📫 How to reach me www.linkedin.com/in/nikhilraj16
+- 🌱 I’m currently learning c++, FLutter
+- 💞️ I’m looking to collaborate on c++, GLutter
+- 📫 How to reach me www.linkedin.com/in/nikhilraj16, https://www.instagram.com/nikkonikhilraj
 
 
 <!---
